@@ -3,9 +3,6 @@ Crazy interaction using Kinect and Processing to draw weird shapes with your bod
 
 ![](http://www.mikkelmedm.com/wp-content/uploads/2016/12/partyguys.gif)
 
-![](http://www.mikkelmedm.com/wp-content/uploads/2016/12/upclose.gif)
-
-![](http://www.mikkelmedm.com/wp-content/uploads/2016/12/girl.gif)
 
 ![pic](https://raw.githubusercontent.com/mikkelmedm/KinectProcessingDistortion/master/Screen%20Shot%202018-11-14%20at%2018.24.14.png)
 
