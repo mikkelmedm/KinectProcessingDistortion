@@ -1,7 +1,7 @@
 # KinectProcessingDistortion
 Crazy interaction using Kinect and Processing to draw weird shapes with your body.
 
-![](partyguys.gif | width=100) ![](girl.gif =250x250) ![](upclose.gif =250x250)
+![](partyguys.gif s=200) ![](girl.gif =250x250) ![](upclose.gif =250x250)
 
 
 ![pic](https://raw.githubusercontent.com/mikkelmedm/KinectProcessingDistortion/master/Screen%20Shot%202018-11-14%20at%2018.24.14.png)
